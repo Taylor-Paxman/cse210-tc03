@@ -1,6 +1,6 @@
 # cse210-tc03
 
-Alex
-Taylor
-Benjamin
+Alex,
+Taylor,
+Benjamin,
 Mark
