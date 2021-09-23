@@ -6,13 +6,6 @@ My name is Marcus Blanc.
 I'm currently an applied technology student at BYU-Idaho.
 My hobbies are music, books and tennis.
 
-%Alex,
-%From here...
-Taylor,
-%Benjamin LeBeau - I'm from Herriman UT, and work as a piano technician. I'm working towards my applied technology %degree. My hobbies include archery, golf, music, and playing games with family.,
-%Mark
-
-%Hello my name is Mark
 
 
 Noah checking in!
