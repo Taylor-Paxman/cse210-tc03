@@ -9,6 +9,5 @@ My hobbies are music, books and tennis.
 
 
 Noah checking in!
-
-----Taylor, items marked with a percent sign are from your old team, so unless you need them for some reason I suggest removing them----
+Taylor here, I believe I got it
  main
