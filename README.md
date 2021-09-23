@@ -1,5 +1,4 @@
 # cse210-tc03
- noah-bio
 
 Alex,
 From here...
@@ -11,4 +10,3 @@ Hello my name is Mark
 
 
 Noah checking in!
- main
